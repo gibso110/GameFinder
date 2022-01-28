@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "376e6245-de99-4426-864b-cff236f48a29": {
+      "ProjectGuid": "376e6245-de99-4426-864b-cff236f48a29",
+      "DisplayName": "GameFinder.Data",
+      "ColorIndex": 0
+    },
+    "67b6ce85-379f-409d-8a85-e942ac9c4cec": {
+      "ProjectGuid": "67b6ce85-379f-409d-8a85-e942ac9c4cec",
+      "DisplayName": "GameFinder.WebApi",
+      "ColorIndex": 1
+    },
+    "3e972041-151d-4cd1-bfcb-3d03af79a922": {
+      "ProjectGuid": "3e972041-151d-4cd1-bfcb-3d03af79a922",
+      "DisplayName": "GameFinder.Data",
+      "ColorIndex": 2
+    },
+    "fa05158c-c6e7-4527-8184-263cbde42e4e": {
+      "ProjectGuid": "fa05158c-c6e7-4527-8184-263cbde42e4e",
+      "DisplayName": "GameFinder.Services",
+      "ColorIndex": 3
+    },
+    "44fcb7fa-cb52-41b5-bfe1-4066a5d9d87d": {
+      "ProjectGuid": "44fcb7fa-cb52-41b5-bfe1-4066a5d9d87d",
+      "DisplayName": "GameFinder.Models",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

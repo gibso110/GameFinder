@@ -1,0 +1,16 @@
+C:\ElevenFiftyBlue\GameFinder\GameFinder.Services\bin\Debug\GameFinder.Services.dll
+C:\ElevenFiftyBlue\GameFinder\GameFinder.Services\bin\Debug\GameFinder.Services.pdb
+C:\ElevenFiftyBlue\GameFinder\GameFinder.Services\obj\Debug\GameFinder.Services.csproj.AssemblyReference.cache
+C:\ElevenFiftyBlue\GameFinder\GameFinder.Services\obj\Debug\GameFinder.Services.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyBlue\GameFinder\GameFinder.Services\obj\Debug\GameFinder.Services.dll
+C:\ElevenFiftyBlue\GameFinder\GameFinder.Services\obj\Debug\GameFinder.Services.pdb
+C:\ElevenFiftyBlue\GameFinder\GameFinder.Services\bin\Debug\GameFinder.Services.dll.config
+C:\ElevenFiftyBlue\GameFinder\GameFinder.Services\bin\Debug\EntityFramework.dll
+C:\ElevenFiftyBlue\GameFinder\GameFinder.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\ElevenFiftyBlue\GameFinder\GameFinder.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\ElevenFiftyBlue\GameFinder\GameFinder.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\ElevenFiftyBlue\GameFinder\GameFinder.Services\bin\Debug\EntityFramework.xml
+C:\ElevenFiftyBlue\GameFinder\GameFinder.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\ElevenFiftyBlue\GameFinder\GameFinder.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\ElevenFiftyBlue\GameFinder\GameFinder.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ElevenFiftyBlue\GameFinder\GameFinder.Services\obj\Debug\GameFinder.Services.csproj.CopyComplete
